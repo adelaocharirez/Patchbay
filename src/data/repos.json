@@ -1,10 +1,68 @@
 [
-  { "owner": "anthropics", "name": "skills", "kind": "Skills", "description": "Anthropic's official Agent Skills examples and spec.", "stars": 189300, "approx": true, "official": true, "asOf": "2026-11" },
-  { "owner": "affaan-m", "name": "everything-claude-code", "kind": "Tools", "description": "Bundle of agents, skills, hooks, commands, and MCP setups.", "stars": 151800, "approx": true, "asOf": "2026-04" },
-  { "owner": "nextlevelbuilder", "name": "ui-ux-pro-max-skill", "kind": "Skills", "description": "UI and UX design skill for coding assistants.", "stars": 136896, "approx": true, "asOf": "2026-10" },
-  { "owner": "modelcontextprotocol", "name": "servers", "kind": "Tools", "description": "Reference implementations of MCP servers.", "stars": 91434, "approx": true, "official": true, "asOf": "2026-10" },
-  { "owner": "ComposioHQ", "name": "awesome-claude-skills", "kind": "Lists", "description": "Curated list of Claude Skills, resources, and tools.", "stars": 79000, "approx": true, "asOf": "2026-10" },
-  { "owner": "hesreallyhim", "name": "awesome-claude-code", "kind": "Lists", "description": "Skills, hooks, slash commands, and plugins for Claude Code.", "stars": 56203, "approx": true, "asOf": "2026-10" },
-  { "owner": "oraios", "name": "serena", "kind": "Tools", "description": "Semantic code search and editing, exposed as an MCP server.", "stars": 31216, "asOf": "2026-11" },
-  { "owner": "VoltAgent", "name": "awesome-claude-code-subagents", "kind": "Agents", "description": "100+ specialized Claude Code subagents.", "stars": 25793, "approx": true, "asOf": "2026-10" }
+  {
+    "owner": "anthropics",
+    "name": "skills",
+    "kind": "Skills",
+    "description": "Anthropic's official Agent Skills examples and spec.",
+    "stars": 191905,
+    "official": true,
+    "asOf": "2026-11-10"
+  },
+  {
+    "owner": "affaan-m",
+    "name": "everything-claude-code",
+    "kind": "Tools",
+    "description": "Bundle of agents, skills, hooks, commands, and MCP setups.",
+    "stars": 300567,
+    "asOf": "2026-11-10"
+  },
+  {
+    "owner": "nextlevelbuilder",
+    "name": "ui-ux-pro-max-skill",
+    "kind": "Skills",
+    "description": "UI and UX design skill for coding assistants.",
+    "stars": 147652,
+    "asOf": "2026-11-10"
+  },
+  {
+    "owner": "modelcontextprotocol",
+    "name": "servers",
+    "kind": "Tools",
+    "description": "Reference implementations of MCP servers.",
+    "stars": 91906,
+    "official": true,
+    "asOf": "2026-11-10"
+  },
+  {
+    "owner": "ComposioHQ",
+    "name": "awesome-claude-skills",
+    "kind": "Lists",
+    "description": "Curated list of Claude Skills, resources, and tools.",
+    "stars": 79189,
+    "asOf": "2026-11-10"
+  },
+  {
+    "owner": "hesreallyhim",
+    "name": "awesome-claude-code",
+    "kind": "Lists",
+    "description": "Skills, hooks, slash commands, and plugins for Claude Code.",
+    "stars": 57673,
+    "asOf": "2026-11-10"
+  },
+  {
+    "owner": "oraios",
+    "name": "serena",
+    "kind": "Tools",
+    "description": "Semantic code search and editing, exposed as an MCP server.",
+    "stars": 31265,
+    "asOf": "2026-11-10"
+  },
+  {
+    "owner": "VoltAgent",
+    "name": "awesome-claude-code-subagents",
+    "kind": "Agents",
+    "description": "100+ specialized Claude Code subagents.",
+    "stars": 26461,
+    "asOf": "2026-11-10"
+  }
 ]

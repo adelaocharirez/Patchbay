@@ -1,1 +1,57 @@
-{ "checkedAt": null, "results": {} }
+{
+  "checkedAt": "2026-11-10T14:53:10.466Z",
+  "results": {
+    "notion": {
+      "ok": true,
+      "status": 401
+    },
+    "asana": {
+      "ok": true,
+      "status": 401
+    },
+    "linear": {
+      "ok": true,
+      "status": 401
+    },
+    "atlassian": {
+      "ok": true,
+      "status": 401
+    },
+    "figma": {
+      "ok": true,
+      "status": 405
+    },
+    "miro": {
+      "ok": true,
+      "status": 401
+    },
+    "github": {
+      "ok": true,
+      "status": 401
+    },
+    "sentry": {
+      "ok": true,
+      "status": 401
+    },
+    "context7": {
+      "ok": true,
+      "status": 405
+    },
+    "deepwiki": {
+      "ok": true,
+      "status": 405
+    },
+    "vercel": {
+      "ok": true,
+      "status": 401
+    },
+    "supabase": {
+      "ok": true,
+      "status": 401
+    },
+    "stripe": {
+      "ok": true,
+      "status": 401
+    }
+  }
+}
