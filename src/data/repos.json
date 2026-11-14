@@ -4,65 +4,65 @@
     "name": "skills",
     "kind": "Skills",
     "description": "Anthropic's official Agent Skills examples and spec.",
-    "stars": 193988,
+    "stars": 194387,
     "official": true,
-    "asOf": "2026-11-13"
+    "asOf": "2026-11-14"
   },
   {
     "owner": "affaan-m",
     "name": "everything-claude-code",
     "kind": "Tools",
     "description": "Bundle of agents, skills, hooks, commands, and MCP setups.",
-    "stars": 302284,
-    "asOf": "2026-11-13"
+    "stars": 302670,
+    "asOf": "2026-11-14"
   },
   {
     "owner": "nextlevelbuilder",
     "name": "ui-ux-pro-max-skill",
     "kind": "Skills",
     "description": "UI and UX design skill for coding assistants.",
-    "stars": 148948,
-    "asOf": "2026-11-13"
+    "stars": 149320,
+    "asOf": "2026-11-14"
   },
   {
     "owner": "modelcontextprotocol",
     "name": "servers",
     "kind": "Tools",
     "description": "Reference implementations of MCP servers.",
-    "stars": 91971,
+    "stars": 91986,
     "official": true,
-    "asOf": "2026-11-13"
+    "asOf": "2026-11-14"
   },
   {
     "owner": "ComposioHQ",
     "name": "awesome-claude-skills",
     "kind": "Lists",
     "description": "Curated list of Claude Skills, resources, and tools.",
-    "stars": 79400,
-    "asOf": "2026-11-13"
+    "stars": 79472,
+    "asOf": "2026-11-14"
   },
   {
     "owner": "hesreallyhim",
     "name": "awesome-claude-code",
     "kind": "Lists",
     "description": "Skills, hooks, slash commands, and plugins for Claude Code.",
-    "stars": 57918,
-    "asOf": "2026-11-13"
+    "stars": 57975,
+    "asOf": "2026-11-14"
   },
   {
     "owner": "oraios",
     "name": "serena",
     "kind": "Tools",
     "description": "Semantic code search and editing, exposed as an MCP server.",
-    "stars": 31351,
-    "asOf": "2026-11-13"
+    "stars": 31371,
+    "asOf": "2026-11-14"
   },
   {
     "owner": "VoltAgent",
     "name": "awesome-claude-code-subagents",
     "kind": "Agents",
     "description": "100+ specialized Claude Code subagents.",
-    "stars": 26529,
-    "asOf": "2026-11-13"
+    "stars": 26541,
+    "asOf": "2026-11-14"
   }
 ]
